@@ -1,0 +1,103 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px;
+
+}
+
+
+label {
+    font-weight: bold;
+}
+
+.book-form{
+      border: 5px solid;
+      margin: auto;
+      max-width: 800px;
+      padding-top: 5px;
+      padding-bottom: 50px;
+      height: auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+}
+
+.book-form-edit{
+      border: 5px solid;
+      margin: auto;
+      max-width: 250px;
+      padding-top: 5px;
+      padding-bottom: 50px;
+      height: auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+}
+
+.page-description{
+    text-align: center;
+    padding: 10px;
+
+}
+
+.add-button{
+    padding: 10px
+    margin: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer{
+
+    left:0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2c7;
+
+}
+
+.image-library{
+      margin: auto;
+      max-width: 250px;
+      padding-top: 5px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+}
+
+.image-library img{
+
+      border: 1px solid;
+      margin: auto;
+      width: 570px;
+      height: 379px;
+
+}
+
+/*
+#edit-button{
+    text-align: center;
+    padding-top: 2em;
+
+}
+*/
+
+
+.footer p{
+
+    text-align: center;
+    padding: 2px;
+}
+
+
+/* Add more styles as needed */
